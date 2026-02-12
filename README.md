@@ -1,3 +1,8 @@
+![System Diagram](IMG_6425.jpeg)
+
+
+
+
 ROS2 Steering Control Prototype
 
 This project demonstrates a simple ROS2-based drive-by-wire steering prototype.
